@@ -1,0 +1,15 @@
+.headerlogo {
+	height: 300px;
+	width: 100%;
+	max-width: 100%
+}
+
+#leftcol{
+	text-align: left;
+	float: left;
+}
+
+#checkoutButton{
+	padding: 10px;
+	margin: 20px;
+}
